@@ -46,25 +46,15 @@ npm install
 - Find solutions and coding examples in the **QuickLabs** folder.
 
 ### Step 4: Run and Test Code
-Navigate to the appropriate folder in **QuickLabs** and run the code using the following command:
-```bash
-npm start
-```
+Navigate to the appropriate folder in **QuickLabs** and run the code using the command found in the package.json.
+
 Or, use the instructions provided in the relevant section.
 
 ---
 
 ## Notes
 - This repository was created to avoid the hassle of using virtual machines and provide a seamless local development experience.
-- Some solutions might be experimental, so feel free to tweak and test them.
-
----
-
-## Contributing
-Contributions are welcome! If you find an issue or have an improvement suggestion, feel free to:
-1. Fork the repository.
-2. Make your changes.
-3. Submit a pull request.
+- I have no Idea if any of this actually works.
 
 ---
 
